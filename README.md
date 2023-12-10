@@ -1,6 +1,6 @@
 # oms-tsys-TA33_3-2711
 
-Ejercicio 1 [aquí](oriolmelo.github.io/oms-tsys-TA33_3-2711/Ejercicio%201/)  
+Ejercicio 1 [aquí](https://oriolmelo.github.io/oms-tsys-TA33_3-2711/Ejercicio%201/)  
 Ejercicio 2 [aquí](oriolmelo.github.io/oms-tsys-TA33_3-2711/Ejercicio%202/)  
 Ejercicio 3 [aquí](oriolmelo.github.io/oms-tsys-TA33_3-2711/Ejercicio%203/)  
 Ejercicio 4 [aquí](oriolmelo.github.io/oms-tsys-TA33_3-2711/Ejercicio%204/)  
